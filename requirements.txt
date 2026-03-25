@@ -1,6 +1,6 @@
-flask
-aiohttp
-requests
-gunicorn
-python-dotenv
-flask-cors
+flask==2.3.3
+flask-cors==4.0.0
+aiohttp==3.8.6
+requests==2.31.0
+gunicorn==21.2.0
+python-dotenv==1.0.0
