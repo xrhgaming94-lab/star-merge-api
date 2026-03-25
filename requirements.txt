@@ -1,9 +1,6 @@
-# requirements.txt for Flask
-flask==3.0.0
-flask-cors==4.0.0
-aiohttp==3.9.1
-asyncio==3.4.3
-gunicorn==21.2.0
-python-dotenv==1.0.0
-requests==2.31.0
-colorlog==6.8.0
+flask
+aiohttp
+requests
+gunicorn
+python-dotenv
+flask-cors
